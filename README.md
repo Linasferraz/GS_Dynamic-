@@ -1,7 +1,7 @@
 ## Integrantes
 Carolina Santana Ferraz RM: 86833
-Evelyn Choque RM:
-Milena Codinhoto RM:
+Evelyn Choque RM: 557929
+Milena Codinhoto RM: 554682
 
 # MenteNeural – Programação Dinâmica Aplicada ao Bem-Estar no Trabalho
 
